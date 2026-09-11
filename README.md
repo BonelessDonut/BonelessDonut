@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+Current Undergraduate CS Student @ Drexel University
+
+Doing cool things and living life
+
 <!--
 **BonelessDonut/BonelessDonut** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
